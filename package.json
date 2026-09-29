@@ -74,7 +74,7 @@
     "lodash": "^4.11.1",
     "magnet-uri": "^5.1.4",
     "mkdirp": "^0.5.1",
-    "morgan": "^1.5.3",
+    "morgan": "^1.12.1",
     "multer": "^1.1.0",
     "nodemailer": "^4.4.2",
     "parse-torrent": "^5.8.0",
