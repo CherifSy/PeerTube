@@ -75,7 +75,7 @@
     "magnet-uri": "^5.1.4",
     "mkdirp": "^0.5.1",
     "morgan": "^1.5.3",
-    "multer": "^1.1.0",
+    "multer": "^2.4.0",
     "nodemailer": "^4.4.2",
     "parse-torrent": "^5.8.0",
     "password-generator": "^2.0.2",
