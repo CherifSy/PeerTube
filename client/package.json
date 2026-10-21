@@ -71,7 +71,7 @@
     "raw-loader": "^0.5.1",
     "resolve-url-loader": "^2.0.0",
     "rxjs": "^5.4.2",
-    "sanitize-html": "^1.16.3",
+    "sanitize-html": "^2.18.0",
     "sass-loader": "^6.0.3",
     "sass-resources-loader": "^1.2.1",
     "tslint": "^5.7.0",
